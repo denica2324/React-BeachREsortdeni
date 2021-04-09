@@ -14,7 +14,7 @@ function Home() {
         Hero >
         <
         Banner title = "Crystal City Hotel "
-        subtitle = "Dream Rooms Starting At $160" >
+        subtitle = "Your dreams and our rooms Starting At $160" >
         <
         Link className = "btn-primary"
         to = "/rooms" > Our Rooms < /Link> < /
